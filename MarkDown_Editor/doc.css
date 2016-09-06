@@ -1,3 +1,8 @@
+body {
+	
+	width: 800px;
+}
+
 h1 {
 	padding-left: 0.5em;
 	border-bottom: solid 1px #C0C0C0;
@@ -10,6 +15,7 @@ h2 {
 }
 
 h4 {
+	margin-left: 1em;
 	padding-left: 0.2em;
 	padding-bottom: 0.2em;
 	border-bottom: solid 1px #C0C0C0;
@@ -22,22 +28,18 @@ p code {
 	border: solid 1px #E0E0E0;
 	padding: 0.5em;
 	margin: 1em;
-}
-
-pre code {
-	background: #F0F0F0;
-	border: solid 1px #E0E0E0;
-	padding: 0.5em;
-	margin: 1em;
+	margin-left: 3em;
 }
 
 dl {
-	margin: 1em 1em 1em 2em;
+	margin: 1em 1em 1em 3em;
 }
 
 dt {
-	background: #F0F0F0;
+	border-bottom: dashed 1px #C0C0C0;
 }
-dt {
-	margin: 0.5em;
+
+dd {
+	padding: 0.5em 0.5em 0.5em 0.5em;
 }
+
