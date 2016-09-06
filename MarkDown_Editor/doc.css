@@ -1,0 +1,45 @@
+h1 {
+	padding-left: 0.5em;
+	border-bottom: solid 1px #C0C0C0;
+}
+
+h2 {
+	padding-left: 0.2em;
+	border-left: solid 20px #C0C0C0;
+	border-bottom: solid 1px #C0C0C0;
+}
+
+h3 {
+
+}
+
+h4 {
+	padding-left: 0.2em;
+	padding-bottom: 0.2em;
+	border-bottom: solid 1px #C0C0C0;
+}
+
+p code {
+	display: block;
+	white-space: pre;
+	background: #F0F0F0;
+	border: solid 1px #E0E0E0;
+	padding: 0.5em;
+	margin: 1em;
+}
+
+pre code {
+	background: #F0F0F0;
+	border: solid 1px #E0E0E0;
+	padding: 0.5em;
+	margin: 1em;
+}
+
+dl {
+	margin: 1em;
+}
+
+dd {
+	background: #F0F0F0;
+	padding: 0.5em;
+}
